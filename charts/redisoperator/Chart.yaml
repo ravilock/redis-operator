@@ -6,11 +6,11 @@ description: A Helm chart for the Redis Operator
 name: redis-operator
 
 version: 3.3.3
-home: https://github.com/freshworks/redis-operator
+home: https://github.com/ravilock/redis-operator
 keywords:
   - "golang"
   - "operator"
   - "cluster"
 sources:
-  - https://github.com/freshworks/redis-operator
+  - https://github.com/ravilock/redis-operator
 kubeVersion: ">=1.21.0-0"
