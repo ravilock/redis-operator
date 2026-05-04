@@ -4,7 +4,7 @@ VERSION ?= v1.3.0-rc0
 SERVICE_NAME := redis-operator
 
 # Docker image name for this project
-IMAGE_NAME := freshworks/$(SERVICE_NAME)
+IMAGE_NAME := ravilock/$(SERVICE_NAME)
 
 # Repository url for this project
 REPOSITORY := ghcr.io/$(IMAGE_NAME)
